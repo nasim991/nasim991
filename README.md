@@ -2,6 +2,8 @@
 #### Student-Programmer-Coder
 I'm pursuing my B.Sc in Computer Science and Engineering at Leading University, Sylhet. I love playing football. I also love traveling to new places.
 
+<img src="https://github.com/nasim991/nasim991/blob/main/giphy.gif">
+
 Skills: **C, C++, HTML, Java, Java Swing and MYSQL**
 
 - 🔭 I’m currently working on Java 
