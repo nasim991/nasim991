@@ -4,7 +4,7 @@ I'm pursuing my B.Sc in Computer Science and Engineering at Leading University, 
 
 <img src="https://github.com/nasim991/nasim991/blob/main/giphy.gif">
 
-Skills: **C, C++, HTML, Java, Java Swing and MYSQL**
+Skills: **C, C++, HTML, Java, Java Swing, MONGODB and MYSQL**
 
 - 🔭 I’m currently working on Java 
 - 🌱 I’m currently learning Java Swing 
